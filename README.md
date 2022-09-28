@@ -10,14 +10,14 @@ The app consist of three pages:
 ###Main page:
 where you can setup the test options as shown below
 
-![]("./src/img/main-page.png")
+![]("/src/img/main-page.png")
 
 ###Typing page:
 where you can start by typing below the sentences already their
 
-![]("./src/img/typing.png")
+![]("/src/img/typing.png")
 
 ###Results page:
 this page will show you the different between the previous level and the current level of your typing skill.
 
-![]("./src/img/results.png")
+![]("/src/img/results.png")
